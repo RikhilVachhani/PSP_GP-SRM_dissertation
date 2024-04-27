@@ -7,5 +7,8 @@ The aim of the project was to implement Scoring Rules as a inference methodology
 
   Below is a brief overview of this repository:
   - _Scoring Rules.ipynb_ - Code for the Energy, Variogram and the weighted Energy-Variogram Scores
-
+  - 
+  - _Spatial_LMM_and_GLMM.ipynb_ - Code for the implementation of Energy Score minimisation to the LMM and GLMM model frameworks
+  - 
+  - _GLMM with GP.ipynb_ - Code that implements Scoring Rule minimisation on the full GLMM with Gaussian Process random effects model
 
